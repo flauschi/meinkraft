@@ -1,0 +1,13 @@
+name = "Hempdustry 2"
+filename = "hempdustry-fabric-2.1.2-26.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5791923e81e07de4043473e3a4b43d56b01fdd35"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9750031
+project-id = 496438

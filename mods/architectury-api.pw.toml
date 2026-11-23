@@ -1,0 +1,13 @@
+name = "Architectury API"
+filename = "architectury-fabric-22.0.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/lhGA9TYQ/versions/Njpa4lhR/architectury-fabric-22.0.6.jar"
+hash-format = "sha512"
+hash = "ba6c4facc8b6fd0bc2759de295b2db007471a7baa3523ca9163c2e17d7106ed1c6bf90dd54ba9da6235fba5a84141739b18e06be7fd0beea628cb67c7eaa2ec5"
+
+[update]
+[update.modrinth]
+mod-id = "lhGA9TYQ"
+version = "Njpa4lhR"

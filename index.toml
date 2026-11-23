@@ -1,0 +1,101 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "44391be60d4d86aca6997969089e5694e53f10e99d6c27c5001f24f85d688c87"
+metafile = true
+
+[[files]]
+file = "mods/ati-structures-vanilla-edition.pw.toml"
+hash = "770bb62a35e30459667552687b0705e694da71366e7ad09b9616160c10c95126"
+metafile = true
+
+[[files]]
+file = "mods/balm.pw.toml"
+hash = "3f529d5fd5e99dbcba1364cfc68eefc9235e6956dcd05f4c6554116f89d9c9c9"
+metafile = true
+
+[[files]]
+file = "mods/bclib.pw.toml"
+hash = "fae3406c549fc1a6d422b419c06c2bab319e6831a30b1a0482e85b5b28271255"
+metafile = true
+
+[[files]]
+file = "mods/betterend.pw.toml"
+hash = "a41c3991272e73ac7b45de51c22e0d2ddbb81fbaccd0d0d452f39ba5c534fd49"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "2b9727522c90a979eb9671ad7c5421443d91391b0697d1772146e6bfa19cb3c1"
+metafile = true
+
+[[files]]
+file = "mods/create-fly-recipe-viewer.pw.toml"
+hash = "9864c9a702ea964d4ed5dabf99fc3246548268abf17a00acf2f748a93939db8a"
+metafile = true
+
+[[files]]
+file = "mods/create-fly.pw.toml"
+hash = "4660ef2900ce77e8cd7f2f7179d6b816595aabeb50b67e7d5f424040afada65c"
+metafile = true
+
+[[files]]
+file = "mods/cultural-delights.pw.toml"
+hash = "4496f65768bece0af9b348fea2b5ca1dc87c4d4b293b75f767b524c01f50c395"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "d8561ff9c3bd2eeb7bb8121241f126c33725734719dcb4973bedeb97750260f8"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight-refabricated.pw.toml"
+hash = "95bd6344ae23c9fc446b1878b2e7db35b94e95b27e98fde99b58164e74981898"
+metafile = true
+
+[[files]]
+file = "mods/ganjacraft.pw.toml"
+hash = "61bbf0e321228ac8dadd2d9b8fb9d0bcec3be26b99406ef8194827b45379992c"
+metafile = true
+
+[[files]]
+file = "mods/lithostitched.pw.toml"
+hash = "ccee57f34e035e85ebb41db22ba255b61aa885f69bd8ef2f7b818be7fa546750"
+metafile = true
+
+[[files]]
+file = "mods/naturalist.pw.toml"
+hash = "15e7405fb9ffa10e8b64234e41ab5031a0ea3c20625aeac25e23334c8f1307c0"
+metafile = true
+
+[[files]]
+file = "mods/rei.pw.toml"
+hash = "95a2d06dfd1517fb4fb88971c2878809544d646551dbc107357f0b00c9c7e28c"
+metafile = true
+
+[[files]]
+file = "mods/shogi.pw.toml"
+hash = "7dce4255d013864163503866db2a902f7071d64ef184c3d40189c1ac9641a7f2"
+metafile = true
+
+[[files]]
+file = "mods/terralith.pw.toml"
+hash = "11753ff4740122b98d7b0aae3eccda9a4ff289c23448c7abfd0c8dbc425b10c7"
+metafile = true
+
+[[files]]
+file = "mods/waystones.pw.toml"
+hash = "be029ce2d7f9234368378e550523053bb892afb36d247726f1bd63f83692292b"
+metafile = true
+
+[[files]]
+file = "mods/worldweaver.pw.toml"
+hash = "440b39919d97d7cd51ed7dd5120df18756a96bc6b1772f64e1f5de6d29fe760e"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "cbb9808546870ecb0a7befebb14df0a11383b1aeafd175a77a0fc4caee44c6f2"
+metafile = true
