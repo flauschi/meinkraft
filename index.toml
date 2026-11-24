@@ -10,7 +10,7 @@ hash = "5bfad3aa1f62b5012c8cd3ac1052e0301b83b04e36aeb6a5e8b960440cbe709a"
 
 [[files]]
 file = "config/inventoryprofilesnext/inventoryprofiles.json"
-hash = "316d3835f972c06fce87c47de3f5260519d26952494254aaec0232edd82aa333"
+hash = "0974462f245db6d323e123d694fc41df81637b32ae4fa9feec0272025f52efa8"
 preserve = true
 
 [[files]]

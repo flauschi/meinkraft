@@ -1,6 +1,8 @@
 {
   "ModSettings": {
-    "first_run": false,
+    "first_run": false
+  },
+  "LockedSlotsSettings": {
     "enable_lock_slots_per_server": {
       "value": false
     }
