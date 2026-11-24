@@ -9,6 +9,16 @@ file = "README.md"
 hash = "5bfad3aa1f62b5012c8cd3ac1052e0301b83b04e36aeb6a5e8b960440cbe709a"
 
 [[files]]
+file = "config/inventoryprofilesnext/inventoryprofiles.json"
+hash = "316d3835f972c06fce87c47de3f5260519d26952494254aaec0232edd82aa333"
+preserve = true
+
+[[files]]
+file = "config/inventoryprofilesnext/refillDisabledSlots.txt"
+hash = "cb36cd187332b9497b14991526f115cfc6732792afbc565a5b65795892073ea3"
+preserve = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "44391be60d4d86aca6997969089e5694e53f10e99d6c27c5001f24f85d688c87"
 metafile = true
