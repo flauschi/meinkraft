@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".nojekyll"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "README.md"
+hash = "5bfad3aa1f62b5012c8cd3ac1052e0301b83b04e36aeb6a5e8b960440cbe709a"
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "44391be60d4d86aca6997969089e5694e53f10e99d6c27c5001f24f85d688c87"
 metafile = true
@@ -46,8 +54,18 @@ hash = "4496f65768bece0af9b348fea2b5ca1dc87c4d4b293b75f767b524c01f50c395"
 metafile = true
 
 [[files]]
+file = "mods/entityculling.pw.toml"
+hash = "de2e449e1257069f5b9570c66c52e30767b498c5722971a9f75a057794114d03"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "d8561ff9c3bd2eeb7bb8121241f126c33725734719dcb4973bedeb97750260f8"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "1811d49906aa7a1e7f1230535c6fec91be45129d028f7900cf35571a497e42b3"
 metafile = true
 
 [[files]]
@@ -56,8 +74,33 @@ hash = "95bd6344ae23c9fc446b1878b2e7db35b94e95b27e98fde99b58164e74981898"
 metafile = true
 
 [[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "069d81cab53c0141459ad4d70bcf3e10f17652f24cc62d3b4a0fc2cd2b700871"
+metafile = true
+
+[[files]]
 file = "mods/ganjacraft.pw.toml"
 hash = "61bbf0e321228ac8dadd2d9b8fb9d0bcec3be26b99406ef8194827b45379992c"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "a7f6a1543f41198911a8b1e5e059fa0c8003365ebd6c2314e2dfa0806aff300a"
+metafile = true
+
+[[files]]
+file = "mods/inventory-profiles-next.pw.toml"
+hash = "6afdd9a4f55afb1f553f2cef664d05c70680263cfb327f951755452f2c34670d"
+metafile = true
+
+[[files]]
+file = "mods/libipn.pw.toml"
+hash = "d1835fa094e5e072919e78f8849a1342a022b1076b94db3effd30871d92e71cc"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "bae28aaf888e212a4310264a51e585aa252051fcc2467c309670c7786b923ee5"
 metafile = true
 
 [[files]]
@@ -78,6 +121,11 @@ metafile = true
 [[files]]
 file = "mods/shogi.pw.toml"
 hash = "7dce4255d013864163503866db2a902f7071d64ef184c3d40189c1ac9641a7f2"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "f92dd3c24c5b62edbc368a540769ea82f88e97a5759eaffda011d045b1bf4be2"
 metafile = true
 
 [[files]]
