@@ -2,11 +2,6 @@
   "ModSettings": {
     "first_run": false
   },
-  "LockedSlotsSettings": {
-    "enable_lock_slots_per_server": {
-      "value": false
-    }
-  },
   "AutoRefillSettings": {
     "auto_refill_enable_horbar_indicator_icons": {
       "value": false

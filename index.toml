@@ -9,13 +9,13 @@ file = "README.md"
 hash = "5bfad3aa1f62b5012c8cd3ac1052e0301b83b04e36aeb6a5e8b960440cbe709a"
 
 [[files]]
-file = "config/inventoryprofilesnext/inventoryprofiles.json"
-hash = "0974462f245db6d323e123d694fc41df81637b32ae4fa9feec0272025f52efa8"
+file = "config/inventoryprofilesnext/angel.ipv64.net/refillDisabledSlots.txt"
+hash = "cb36cd187332b9497b14991526f115cfc6732792afbc565a5b65795892073ea3"
 preserve = true
 
 [[files]]
-file = "config/inventoryprofilesnext/refillDisabledSlots.txt"
-hash = "cb36cd187332b9497b14991526f115cfc6732792afbc565a5b65795892073ea3"
+file = "config/inventoryprofilesnext/inventoryprofiles.json"
+hash = "eabd424d1eb8c62a5c9bc11a4ef090477e6323c9f30ef16dece120b5b44ca2f4"
 preserve = true
 
 [[files]]
